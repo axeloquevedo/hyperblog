@@ -10,5 +10,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 * El verdadero amor por las buenas prácticas
 * Trucos muy múltiples
 * Creado por Axel Quevedo
+* Incluye ejemplos en Mac
 
 Y como amable recordatorio "Este readme.md es un chiste". Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
